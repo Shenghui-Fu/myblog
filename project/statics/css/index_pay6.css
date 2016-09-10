@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+/*search-top*/
+.search-top .top-2 .top-in-2 .button { margin-top:30px;}
+.search-top .top-2 { border-bottom:3px solid #FF6301; padding-bottom:20px;}
+.display-none{display: none}
+/*index-pay*/
+.index-pay{width: 100%;min-width:1200px; }
+.index-pay .container{width: 1200px;margin: 0 auto;margin-top: 25px}
+.index-pay .container .order{width: 500px;margin: 0 auto}
+.index-pay .container .order .distance{margin-top: 10px}
+.index-pay .container .order .evaluate{text-align: center;font-size: 16px}
+.index-pay .container .order p span{font-size: 14px}
+.index-pay .container .order .deep{color: #111111}
+.index-pay .container .order p span:first-of-type{margin-left: 100px}
+.index-pay .container .order .leftDis{margin-left: 25px}
+.index-pay .container .success-table{margin-top: 15px}
+.index-pay .container .success-table th{height: 70px;background: #FFE6D6;text-align: center}
+.index-pay .container .success-table td{height: 60px;text-align: center}
+.index-pay .container .success-table .ing{background: url("../images/ly-4.png") no-repeat 8px 4px;width: 14px;height: 14px;padding-left: 30px}
+.index-pay .container .success-table .change-col{color:  #009943}
+.index-pay .container .success-table td a{color: #FF6301}
+.index-pay .container .share{line-height:30px;color: #111111;text-indent:2em;;width: 1170px;height: 232px;border: none;padding: 20px 0 0 30px;background: url("../images/ly-8.png") no-repeat 1185px 236px}
+.index-pay .container .surprise{height: 46px;background: #F2F2F2;text-align: right;line-height: 46px;padding-right: 20px}
+.index-pay .container .surprise .num{color: #ff0000}
+.index-pay .container .submit{width: 327px;height: 50px;margin: 0 auto;margin-top: 24px}
+.index-pay .container .submit .btn{width: 217px;height: 50px;background: url("../images/ly-7.png") no-repeat 0 0;border: none;float: left}
+.index-pay .container .submit .label{float: left;margin-top: 20px;margin-left: 20px}
+.index-pay .container .submit .label .cd{color: #2F81D5}
+.index-pay .container .full{background: url("../images/ly-7.png") no-repeat -203px -123px;width: 14px;height: 15px;display: block;float: left;margin-left: 3px}
+.index-pay .container .kong{background: url("../images/ly-7.png") no-repeat -203px -186px;width: 14px;height: 15px;display: block;float: left;margin-left: 3px}
+.index-pay .container .satisfa{float: left}
+.index-pay .container .score{margin-left: 18px}
+.index-pay .container .time{margin-left: 28px}
+.index-pay .container .dis{margin-top: 10px}
+.index-pay .container .star li {cursor: pointer;float: left;height: 15px;width: 14px;background: url("../images/ly-7.png") no-repeat -203px -186px;margin-right: 4px;}
+/*search-bottom*/
+.search-bottom .bottom-3 {margin-top: 78px;}
+

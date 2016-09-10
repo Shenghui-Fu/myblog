@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+	.search-top .top-2 .top-in-2 .button { margin-top:30px;}
+	.search-top .top-2 { border-bottom:1px solid #FF6301; padding-bottom:20px;}
+	/*payment-middle*/
+	.default{
+    color: #000;
+    border:1px solid #999;
+ 
+}
+.checked{
+    color:#f00;
+    border:1px solid #ff0;
+     
+}
+	.payment-middle .ane{ border:1px solid red;}
+	.payment-middle .en{border-radius:10px; }
+	.payment-middle input{ width:15px; height:15px; }
+	.payment-middle{ width:100%;min-width:1200px;}
+	.payment-middle .main-top-1{ width:1200px; margin:0 auto; margin-top:25px; }
+	.payment-middle .main-top-1 .top-1{ margin-bottom:12px;}
+	.payment-middle .main-top-1 .top-2 { margin-bottom:10px;}
+	.payment-middle .main-top-1 .top-2 a{ display:block;}
+	.payment-middle .main-top-1 .top-2 a img{ float:left; margin-left:25px;}
+	.payment-middle .main-top-1 .top-2 p.text-4{ float:left; margin-left:90px; margin-top:5px;}
+	.payment-middle .main-top-1 .top-2 p.text-3{ float:left; margin-left:90px;margin-top:25px;}
+	.payment-middle .main-top-1 .top-2 p.text-3 .text-1{ font-size:20px; font-weight:bold; color:#FF6301;}
+	.payment-middle .main-top-1 .top-2 ul{ float:left; margin-left:60px;margin-top:30px;}
+	.payment-middle .main-top-1 .top-2 ul li{ float:left; width:45px; text-align:center; margin-left:100px;color:#535353;}
+	.payment-middle .main{ background:#F9F9F9; padding-bottom:54px;}
+	.payment-middle .main .main-top-2{ width:1200px; margin:0 auto;}
+	.payment-middle .main .main-top-2 .middle-1{padding-top:40px;}
+	.payment-middle .main .main-top-2 .middle-1 h3{ font-size:16px; font-weight:bold; display:block; width:200px; float:left;}
+	.payment-middle .main .main-top-2 .middle-1 span{ float:right; margin-left:10px;}
+	.payment-middle .main .main-top-2 .middle-1 span a{ padding-right:20px;}
+	.payment-middle .main .main-top-2 .middle-2 ul{ margin-top:25px;}
+	.payment-middle .main .main-top-2 .middle-2 ul li{ float:left; margin-left:23px; height:34px;}
+	.payment-middle .main .main-top-2 .middle-2 ul li.first{ margin-left:0;}
+	.payment-middle .main .main-top-2 .middle-2 ul li label{ display:block; width:15px; float:left;margin-top:10px;}
+	.payment-middle .main .main-top-2 .middle-2 ul li img{ margin-left:5px;}
+	.payment-middle .main .main-top-2 .middle-3 {margin-top:30px;}
+	.payment-middle .main .main-top-2 .middle-3 h3 { display:block; width:70px; float:left; font-size:16px; font-weight:bold;}
+	.payment-middle .main .main-top-2 .middle-3 span{ font-size:16px;}
+	.payment-middle .main .main-top-2 .middle-4 ul{ margin-top:25px; display:block; width:1020px; margin-left:-23px; float:left;}
+	.payment-middle .main .main-top-2 .middle-4 ul li{ float:left; margin-left:23px; margin-bottom:15px; width:169px; height:34px;}
+	.payment-middle .main .main-top-2 .middle-4 ul li.first{ margin-left:0;}
+	.payment-middle .main .main-top-2 .middle-4 ul li label{ display:block; width:15px; float:left;margin-top:10px;}
+	.payment-middle .main .main-top-2 .middle-4 ul li label input{ border:0;}
+	.payment-middle .main .main-top-2 .middle-4 ul li img{ margin-left:5px;}
+	.payment-middle .main .main-top-2 .middle-4 .right-a{ float:right; margin-top:130px; text-align:center;}
+	.payment-middle .main .main-top-2 .middle-4 .right-a .button-1{ width:118px; height:50px; display:block; background:#FF6500; font-size:18px; text-align:center; line-height:50px; border-radius:10px; margin-bottom:7px;}
+	.payment-middle .main .main-top-2 .middle-4 .right-a .button-1 a{ color:#fff;}
+	.payment-middle .main .main-top-2 .middle-4 .right-a  span.button-2{ margin-top:5px;}
+	.payment-middle .main .main-top-2 .middle-4 .right-a  span.button-2 a{ font-size:14px; color:#FF6500;}
+	
+	
+	

@@ -1,0 +1,18 @@
+    @charset "utf-8";
+    /* CSS Document */
+    /*search-top*/
+    .search-top .top-2 .top-in-2 .button { margin-top:30px;}
+    .search-top .top-2 { border-bottom:3px solid #FF6301; padding-bottom:20px;}
+    .display-none{display: none}
+    /*index-pay*/
+    .index-pay{width: 100%; min-width:1200px;}
+    .index-pay .container{width: 1200px;margin: 0 auto;margin-top: 25px}
+    .index-pay .container .success-table{margin-top: 15px}
+    .index-pay .container .success-table th{height: 70px;background: #FFE6D6;text-align: center}
+    .index-pay .container .success-table td{height: 60px;text-align: center}
+    .index-pay .container .success-table .ing{background: url("../images/ly-4.png") no-repeat 8px 4px;width: 14px;height: 14px;padding-left: 30px}
+    .index-pay .container .success-table .change-col{color:  #009943}
+    .index-pay .container .success-table td a{color: #FF6301}
+    /*search-bottom*/
+    .search-bottom .bottom-3 {margin-top: 78px;}
+

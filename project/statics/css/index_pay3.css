@@ -1,0 +1,40 @@
+    @charset "utf-8";
+    /* CSS Document */
+    /*search-top*/
+    .search-top .top-2 .top-in-2 .button { margin-top:30px;}
+    .search-top .top-2 { border-bottom:3px solid #FF6301; padding-bottom:20px;}
+    .display-none{display: none}
+    /*index-pay*/
+    .index-pay{width: 100%;min-width:1200px; }
+    .index-pay .container{width: 1200px;margin: 0 auto;margin-top: 25px}
+    .index-pay .container p{height: 60px;line-height: 70px;display: block;width: 1200px;background: url("../images/hp-5.png") no-repeat 50px -161px;padding-left: 112px;font-size: 24px}
+    .index-pay .container .show-list{width: 1200px;background: #FFF4E8;height: 67px;margin-top: 5px;}
+    .index-pay .container .show-list-thing{width: 52px;height: 53px;background: #FDFDFD;margin-top: 5px;margin-left: 35px;float: left;border: 1px solid #CDCCCB}
+    .index-pay .container .show-list-name{width: 260px;float: left;height: 67px;margin-left: 80px;}
+    .index-pay .container .show-list-name a{display: block;margin-top: 5px}
+    .index-pay .container .show-list-name a:first-of-type{margin-top: 12px}
+    .index-pay .container .show-list .money-num{width: 600px;height: 67px;float: left;margin-left: 30px;line-height: 67px}
+    .index-pay .container .show-list .money-num span{margin-left: 125px}
+    .index-pay .container .order{width: 917px;height: 416px;;float: left;border: 1px solid #BFBFBF;margin-top: 5px}
+    .index-pay .container .order-search{width: 280px;height: 416px;float: left;border: 1px solid #BFBFBF;border-left: none;margin-top: 5px;overflow: hidden}
+    .index-pay .container .order .order-lf{width: 728px;height: 300px;margin: 0 auto;margin-top: 30px}
+    .index-pay .container .order .order-lf .needs{float: left;color: #FF6301;width: 110px;font-size: 24px;text-align: center}
+    .index-pay .container .order .order-lf .btn-2{width: 73px;background: url("../images/hp-5.png") no-repeat -96px -222px;height: 35px;margin-left: 5px;border: none}
+    .index-pay .container .order .order-lf .btn-1{width: 124px;background: url("../images/hp-5.png") no-repeat 0 -94px;height: 35px;margin-left: 5px;border: none}
+    .index-pay .container .order .order-lf .send{margin-top: 20px;}
+    .index-pay .container .order .order-lf .send .send-1{margin-left: 5px;padding-top: 10px}
+    .index-pay .container .order .order-lf .send .send-2{margin-left: 15px;padding-top:10px}
+    .index-pay .container .order .order-lf .send .distance{margin-top: 8px}
+    .index-pay .container .order .order-lf .details{line-height:30px;text-indent:2em;;width: 728px;height: 156px;background: url("../images/hp-5.png") no-repeat -1px -281px;margin-top: 25px;border: 1px solid #BFBFBF;padding: 10px 0 0 20px;float: left}
+    .index-pay .container .order .order-lf .submit{width: 169px;height: 49px;background: url("../images/hp-5.png") no-repeat 0 1px;border: none;float: right;margin-top: 15px}
+    .index-pay .container .order-search .centers{width: 239px;margin:0 auto;height: 37px;margin-top: 20px;}
+    .index-pay .container .order-search .centers .search-1{width: 63px;height: 37px;border: 1px solid #FF6301;float: left;background:#FF6301 ;cursor: pointer;color: #ffffff}
+    .index-pay .container .order-search .centers .search{width:162px ;height: 35px;border: 1px solid #FF6301;border-right: none;float: left;padding-left: 10px}
+    .index-pay .container .order-search .moddle{margin-top: 30px;margin-left: 60px}
+    .index-pay .container .order-search .moddle li a:hover{color:#FF6301 }
+    .index-pay .container .order-search .moddle li{margin-top: 10px}
+    .index-pay .container .order-search .moddle-1{margin-left: 20px;color: #FF6301;display: none}
+    .index-pay .container .order-search .spen{color: #FF6301}
+    /*search-bottom*/
+    .search-bottom .bottom-3 {margin-top: 78px;}
+
